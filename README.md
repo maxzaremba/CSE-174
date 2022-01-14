@@ -1,2 +1,2 @@
 # CSE-174
-All of my work from CSE 174.
+Java code written for CSE 174: Fundamentals of Programming and Problem Solving.
